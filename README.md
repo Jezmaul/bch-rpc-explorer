@@ -78,7 +78,7 @@ See `bch-rpc-explorer --help` for the full list of CLI options.
 
 # Support
 
-* [bitcoincash:pq6snv5fcx2fp6dlzg7s0m9zs8yqh74335tzvvfcmq](bitcoincash:pq6snv5fcx2fp6dlzg7s0m9zs8yqh74335tzvvfcmq)
+* [bitcoincash:qq32kuufz3esa7ephcytll0g558uza7essmw8w73v8](bitcoincash:qq32kuufz3esa7ephcytll0g558uza7essmw8w73v8)
 
 
 [npm-ver-img]: https://img.shields.io/npm/v/bch-rpc-explorer.svg?style=flat
